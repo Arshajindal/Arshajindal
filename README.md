@@ -1,6 +1,6 @@
 # Hi, I'm Arsha 👋
 
-I'm a software engineer moving into AI/ML. I spent three years at Schneider Electric building .NET software for electrical design. Now I'm a [Master's Computer Science] student at Arizona State University and a research aide at the Complex Adaptive Systems Initiative (CASI).
+I'm a software engineer moving into AI/ML. I spent three years at Schneider Electric building .NET software for electrical design. Now I'm a Master's Computer Science student at Arizona State University and a research aide at the Complex Adaptive Systems Initiative (CASI).
 
 I keep ending up turning messy spreadsheets into software people can rely on, from Excel-driven data pipelines at Schneider to a revenue dashboard at ASU. These days I'm most curious about AI: it's very good at *sounding* right, and I want to build the parts that check whether it actually is.
 
@@ -62,8 +62,6 @@ A web app for ASU's Celano Nanoelectronics Metrology & Failure Analysis Lab. Eac
 
 ## What I work with
 
-## What I work with
-
 **Languages:** Python, C#, TypeScript, SQL
 **AI / ML:** PyTorch, Hugging Face Transformers, scikit-learn, LLM APIs (OpenAI, Anthropic), prompt evaluation, Claude Code
 **Data:** pandas, NumPy, Jupyter
@@ -87,7 +85,7 @@ A web app for ASU's Celano Nanoelectronics Metrology & Failure Analysis Lab. Eac
 
 I'm looking for **AI/ML engineering and software engineering roles in the US**, starting [May 2027].
 
-📧 [arshajindal@gmail.com]
+📧 [Email](arshajindal@gmail.com)
 💼 [LinkedIn](https://www.linkedin.com/in/arsha-jindal/)
 
 Email is the fastest way to reach me.
