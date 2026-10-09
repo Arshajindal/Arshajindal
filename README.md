@@ -1,6 +1,6 @@
 # Hi, I'm Arsha 👋
 
-I'm a software engineer moving into AI/ML. I spent three years at Schneider Electric building .NET software for electrical design. Now I'm a Master's Computer Science student at Arizona State University and a research aide at the Complex Adaptive Systems Initiative (CASI).
+I'm a software engineer moving into AI/ML. I spent three years at Schneider Electric building .NET software for electrical design. Now I'm a Master’s student in Computer Science. at Arizona State University and a research aide at the Complex Adaptive Systems Initiative (CASI).
 
 I keep ending up turning messy spreadsheets into software people can rely on, from Excel-driven data pipelines at Schneider to a revenue dashboard at ASU. These days I'm most curious about AI: it's very good at *sounding* right, and I want to build the parts that check whether it actually is.
 
@@ -8,7 +8,7 @@ I keep ending up turning messy spreadsheets into software people can rely on, fr
 
 ## Where I've worked
 
-**Research Aide · Complex Adaptive Systems Initiative (CASI), Arizona State University**
+**Research Aide · Complex Adaptive Systems Initiative (CASI), Arizona State University**<br>
 *Jul 2026 – present · Scottsdale, AZ*
 
 I build internal tools for CASI, and I research and test emerging AI/ML tools and workflows alongside faculty and researchers.
@@ -18,12 +18,12 @@ I build internal tools for CASI, and I research and test emerging AI/ML tools an
 
 `Python` `Flask` `PostgreSQL`
 
-**Volunteer Research Assistant · Arizona State University**
+**Volunteer Research Assistant · Arizona State University**<br>
 *Oct 2025 – May 2026 · Tempe, AZ*
 
 Built a Unity XR workflow that loads 3D models from the cloud when you scan a QR code, and helped label and manage metadata for scanned 3D models.
 
-**Software Design Engineer · Schneider Electric**
+**Software Design Engineer · Schneider Electric**<br>
 *Aug 2022 – Jul 2025 · Bengaluru, India*
 
 Joined as a graduate engineer trainee after a six-month internship, and moved up to Software Design Engineer in May 2023.
@@ -36,10 +36,10 @@ Joined as a graduate engineer trainee after a six-month internship, and moved up
 
 ## What I'm working on right now
 
-**Does "thinking mode" make AI more honest?**
+**Does "thinking mode" make AI more honest?**<br>
 For CSE 598 (Operationalizing Deep Learning), my team is testing whether turning on a model's thinking mode makes its chain-of-thought more honest.
 
-**North American AI Challenge**
+**North American AI Challenge**<br>
 I'm competing with a team of three in ASU Spark Center's challenge (Oct–Nov 2026), where I lead AI ethics and product strategy.
 
 ---
