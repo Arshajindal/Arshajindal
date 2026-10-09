@@ -83,7 +83,7 @@ A web app for ASU's Celano Nanoelectronics Metrology & Failure Analysis Lab. Eac
 
 ## Say hi
 
-I'm looking for **AI/ML engineering and software engineering roles in the US**, starting [May 2027].
+I'm looking for **AI/ML engineering and software engineering roles in the US**, starting **May 2027**.
 
 📧 [Email](arshajindal@gmail.com)
 💼 [LinkedIn](https://www.linkedin.com/in/arsha-jindal/)
